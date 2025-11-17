@@ -1,0 +1,43 @@
+words = (
+    "lion", "tiger", "elephant", "giraffe", "zebra", "kangaroo", "panda", "koala", "cheetah", "leopard",
+    "hippopotamus", "rhinoceros", "wolf", "fox", "bear", "camel", "deer", "monkey", "gorilla", "chimpanzee",
+    "dog", "cat", "rabbit", "hamster", "squirrel", "otter", "seal", "whale", "dolphin", "shark",
+    "octopus", "crab", "lobster", "starfish", "penguin", "ostrich", "peacock", "sparrow", "parrot", "eagle",
+    "falcon", "owl", "pigeon", "crow", "woodpecker", "rooster", "hen", "duck", "goose", "turkey",
+    "buffalo", "cow", "bull", "sheep", "goat", "horse", "donkey", "mule", "yak", "reindeer",
+    "bat", "snake", "crocodile", "alligator", "turtle", "tortoise", "frog", "toad", "lizard", "gecko",
+    "iguana", "chameleon", "ant", "bee", "wasp", "butterfly", "moth", "dragonfly", "ladybug", "grasshopper",
+    "termite", "cockroach", "spider", "scorpion", "jellyfish", "stingray", "squid", "seahorse", "clam", "snail",
+    "slug", "earthworm", "hedgehog", "porcupine", "armadillo", "sloth", "anteater", "platypus", "walrus", "sealion",
+
+    "india", "china", "japan", "russia", "brazil", "argentina", "chile", "colombia", "peru", "venezuela",
+    "mexico", "canada", "usa", "france", "germany", "italy", "spain", "portugal", "greece", "turkey",
+    "egypt", "southafrica", "nigeria", "kenya", "ethiopia", "uganda", "tanzania", "morocco", "algeria", "tunisia",
+    "iran", "iraq", "afghanistan", "pakistan", "bangladesh", "srilanka", "nepal", "bhutan", "maldives", "thailand",
+    "vietnam", "cambodia", "myanmar", "malaysia", "singapore", "indonesia", "philippines", "australia", "newzealand", "fiji",
+    "saudiarabia", "qatar", "kuwait", "uae", "oman", "yemen", "israel", "palestine", "jordan", "lebanon",
+    "sweden", "norway", "finland", "denmark", "iceland", "poland", "czech", "slovakia", "hungary", "austria",
+    "switzerland", "belgium", "netherlands", "luxembourg", "ireland", "uk", "scotland", "wales", "england", "croatia",
+    "serbia", "romania", "bulgaria", "slovenia", "latvia", "lithuania", "estonia", "georgia", "armenia", "azerbaijan",
+
+    "burger", "pizza", "sandwich", "fries", "hotdog", "taco", "burrito", "quesadilla", "nachos", "shawarma",
+    "falafel", "kebab", "sushi", "ramen", "noodles", "dumpling", "springroll", "pakora", "samosa", "kachori",
+    "vada", "idli", "dosa", "uttapam", "paratha", "naan", "roti", "bhatura", "chole", "pavbhaji",
+    "bhelpuri", "sevpuri", "panipuri", "kachumbari", "shawaya", "manchurian", "cutlet", "roll", "wrap", "toast",
+    "momo", "pasta", "lasagna", "spaghetti", "donut", "croissant", "waffle", "pancake", "crepe", "muffin",
+    "cupcake", "brownie", "cookie", "popcorn", "chips", "pretzel", "bagel", "cheeseburger", "doubleburger", "friedchicken",
+    "chickenwings", "nuggets", "fishandchips", "submarine", "salad", "coleslaw", "milkshake", "smoothie", "icecream", "gelato",
+    "sundae", "popsicle", "kulfi", "jalebi", "rasgulla", "gulabjamun", "laddu", "barfi", "halwa", "peda",
+
+    "andhrapradesh", "arunachalpradesh", "assam", "bihar", "chhattisgarh", "goa", "gujarat", "haryana", "himachalpradesh",
+    "jharkhand", "karnataka", "kerala", "madhyapradesh", "maharashtra", "manipur", "meghalaya", "mizoram", "nagaland",
+    "odisha", "punjab", "rajasthan", "sikkim", "tamilnadu", "telangana", "tripura", "uttarpradesh", "uttarakhand", "westbengal",
+
+    "newyork", "losangeles", "chicago", "houston", "miami", "toronto", "vancouver", "montreal", "london", "paris",
+    "berlin", "madrid", "barcelona", "rome", "milan", "amsterdam", "brussels", "vienna", "prague", "budapest",
+    "warsaw", "moscow", "saopaulo", "riodejaneiro", "buenosaires", "capetown", "johannesburg", "cairo", "nairobi", "lagos",
+    "mumbai", "delhi", "bangalore", "hyderabad", "chennai", "kolkata", "pune", "ahmedabad", "jaipur", "lucknow",
+    "kanpur", "surat", "nagpur", "patna", "bhopal", "indore", "kochi", "thiruvananthapuram", "bhubaneswar", "guwahati",
+    "tokyo", "osaka", "seoul", "beijing", "shanghai", "hongkong", "singapore", "bangkok", "kualalumpur", "jakarta",
+    "manila", "dubai", "doha", "riyadh", "istanbul", "athens", "zurich", "stockholm", "oslo", "helsinki"
+)
