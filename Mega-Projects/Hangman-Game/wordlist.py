@@ -8,7 +8,7 @@ words = (
     "bat", "snake", "crocodile", "alligator", "turtle", "tortoise", "frog", "toad", "lizard", "gecko",
     "iguana", "chameleon", "ant", "bee", "wasp", "butterfly", "moth", "dragonfly", "ladybug", "grasshopper",
     "termite", "cockroach", "spider", "scorpion", "jellyfish", "stingray", "squid", "seahorse", "clam", "snail",
-    "slug", "earthworm", "hedgehog", "porcupine", "armadillo", "sloth", "anteater", "platypus", "walrus", "sealion",
+    "slug", "earthworm", "hedgehog", "porcupine", "armadillo", "sloth", "anteater", "platypus", "walrus", "sealions",
 
     "india", "china", "japan", "russia", "brazil", "argentina", "chile", "colombia", "peru", "venezuela",
     "mexico", "canada", "usa", "france", "germany", "italy", "spain", "portugal", "greece", "turkey",
