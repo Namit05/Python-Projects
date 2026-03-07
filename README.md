@@ -12,7 +12,9 @@ A collection of Python projects created while learning and practicing programmin
 * Quiz Game
 * Rock Paper Scissors
 * Slot Machine
-
+* Higher Or Lower
+* Coffee Machine
+  
 ## Mini Projects
 
 * ATM Pin Check Program
